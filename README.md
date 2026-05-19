@@ -1,9 +1,10 @@
 # Welcome!
 
-This is the lab book for STAT-462 (Spring 2026) on applied regression analysis.
+This is the gihub home of Dr Greatrex's lab-books for two of her courses
 
-The course is taught by [Dr Helen Greatrex](https://science.psu.edu/stat/people/hlg5155) at Penn State.
+ - GEOG364 on spatial analysis: <https://psu-spatial.github.io/Geog364-2025/>
+ - STAT462 which introduces applied regression (OLS): <https://psu-spatial.github.io/Stat462-2026/>
 
-This page shows the background code. To read the book itself, go to
+My website is [Dr Helen Greatrex](https://www.geog.psu.edu/directory/helen-greatrex) at Penn State.
 
-<https://psu-spatial.github.io/Stat462-2026/>
+This page shows the background code for these versions and all past years.  
